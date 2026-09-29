@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="./assets/images/banner.png"
+    src="./assets/images/profile-banner-v2.png"
     alt="Ariane Spanneut — Software Engineer, Frontend. Building accessible, scalable and impactful web experiences."
     width="100%"
   />
