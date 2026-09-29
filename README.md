@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="./assets/images/profile-banner.png"
+    src="./assets/images/profile-banner-v2.png"
     alt="Ariane Spanneut - Frontend Developer"
     width="100%"
   />
