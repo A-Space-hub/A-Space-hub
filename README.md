@@ -1,10 +1,10 @@
-<p align="center">
+<h1 align="center">
   <img
-    src="./assets/images/profile-banner-v2.png"
-    alt="Ariane Spanneut - Frontend Developer"
+    src="./assets/images/banner.png"
+    alt="Ariane Spanneut — Software Engineer, Frontend. Building accessible, scalable and impactful web experiences."
     width="100%"
   />
-</p>
+</h1>
 
 </div>
 
