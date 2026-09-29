@@ -1,12 +1,10 @@
-<div align="center">
-
-# 👋 Bonjour, moi c'est Ariane
-
-### Frontend Developer
-
-Je conçois des interfaces web modernes, accessibles et maintenables.
-
-<br>
+<p align="center">
+  <img
+    src="./assets/images/banner.png"
+    alt="Ariane Spanneut - Frontend Developer"
+    width="100%"
+  />
+</p>
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=3178C6" />
