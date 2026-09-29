@@ -8,7 +8,7 @@
 
 ----
 
-## 👩‍💻 À propos de moi / About me</h2>
+## À PROPOS DE MOI / ABOUT ME
 <br>
 
 <img
@@ -16,16 +16,11 @@
   width="24"
   height="18"
   alt="Français"
-/>
-
-Développeuse frontend passionnée par la conception d'interfaces web
-modernes, performantes et centrées utilisateur.
-
-J'aime transformer des idées en expériences digitales claires et
+/>  Développeuse frontend passionnée par la conception d'interfaces web
+modernes, performantes et centrées utilisateur. J'aime transformer des idées en expériences digitales claires et
 impactantes, avec une attention particulière portée à
 **l'accessibilité**, la **qualité du code** et la **maintenabilité**.
 
-<br>
 <br>
 
 <img
@@ -33,12 +28,8 @@ impactantes, avec une attention particulière portée à
   width="24"
   height="18"
   alt="English"
-/>
-
-Frontend developer passionate about designing modern, 
-high-performing, and user-centered web interfaces.
-
-I enjoy turning ideas into clear and impactful digital experiences, 
+/>  Frontend developer passionate about designing modern, 
+high-performing, and user-centered web interfaces. I enjoy turning ideas into clear and impactful digital experiences, 
 with a strong focus on **accessibility**, **code quality**, and **maintainability**.
 
 <br>
@@ -55,11 +46,11 @@ with a strong focus on **accessibility**, **code quality**, and **maintainabilit
 
 ---
 
-## ✨ Mes projets / My projects
+## MES PROJETS / MY PROJECTS
 
 <br>
 
-### --- 🚀 RocketUI ---
+### 🚀 RocketUI 🚀 
 *React · TypeScript · Storybook · Styled Components · Testing*
 
 <br>
@@ -69,16 +60,9 @@ with a strong focus on **accessibility**, **code quality**, and **maintainabilit
   width="24"
   height="18"
   alt="Français"
-/>
-
-**Bibliothèque de composants React type-safe, accessible et testée.**
-
-Un projet dédié à la création de composants UI réutilisables et
+/> **Bibliothèque de composants React type-safe, accessible et testée.** Un projet dédié à la création de composants UI réutilisables et
 à l'expérimentation autour des design systems modernes.
 
-[→ Voir RocketUI](https://github.com/A-Space-hub/RocketUI)
-
-<br>
 <br>
 
 <img
@@ -86,35 +70,26 @@ Un projet dédié à la création de composants UI réutilisables et
   width="24"
   height="18"
   alt="English"
-/>
-
-**Type-safe, accessible, and tested React component library.**
-
-A project focused on building reusable UI components and exploring modern design system practices.
-
-[→ See RocketUI](https://github.com/A-Space-hub/RocketUI)
+/>  **Type-safe, accessible, and tested React component library.** A project focused on building reusable UI components and exploring modern design system practices.
 
 <br>
 
-### --- 🌿 O'Feel ---
+[→ Voir RocketUI / See RocketUI](https://github.com/A-Space-hub/RocketUI)
+
+<br>
+
+### 🌿 O'Feel 🌿
 *React · TypeScript · Redux · React Router · Testing*
+
+<br>
 
 <img
   src="https://flagcdn.com/24x18/fr.png"
   width="24"
   height="18"
   alt="Français"
-/>
+/>  **Application web de bien-être devenue mon terrain d'expérimentation frontend.** Initialement développé comme projet de fin de formation, O'Feel est aujourd'hui un bac à sable qui me permet d'expérimenter, tester et intégrer de nouvelles pratiques frontend. Le projet évolue notamment avec **RocketUI**, ma bibliothèque de composants React, et me permet de la confronter aux besoins d'une application réelle tout en explorant l'architecture, l'accessibilité, les tests et la maintenabilité.
 
-**Application web de bien-être devenue mon terrain d'expérimentation frontend.**
-
-Initialement développé comme projet de fin de formation, O'Feel est aujourd'hui un bac à sable qui me permet d'expérimenter, tester et intégrer de nouvelles pratiques frontend.
-
-Le projet évolue notamment avec **RocketUI**, ma bibliothèque de composants React, et me permet de la confronter aux besoins d'une application réelle tout en explorant l'architecture, l'accessibilité, les tests et la maintenabilité.
-
-[→ Voir O'Feel](https://github.com/A-Space-hub/ofeel-front)
-
-<br>
 <br>
 
 <img
@@ -122,16 +97,13 @@ Le projet évolue notamment avec **RocketUI**, ma bibliothèque de composants Re
   width="24"
   height="18"
   alt="English"
-/>
+/>  **A wellness web application turned into my frontend playground.** Originally developed as my final training project, O'Feel is now a sandbox where I can experiment with, test, and integrate new frontend practices. The project continues to evolve with **RocketUI**, my React component library, allowing me to test it against the needs of a real-world application while exploring architecture, accessibility, testing, and maintainability.
 
+<br> 
 
-**A wellness web application turned into my frontend playground.**
+[→ Voir O'Feel / See O'Feel](https://github.com/A-Space-hub/ofeel-front)
 
-Originally developed as my final training project, O'Feel is now a sandbox where I can experiment with, test, and integrate new frontend practices.
-
-The project continues to evolve with **RocketUI**, my React component library, allowing me to test it against the needs of a real-world application while exploring architecture, accessibility, testing, and maintainability.
-
-[→ See O'Feel](https://github.com/A-Space-hub/ofeel-front)
+<br>
 
 ---
 
