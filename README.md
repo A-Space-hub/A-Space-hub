@@ -107,92 +107,77 @@ with a strong focus on **accessibility**, **code quality**, and **maintainabilit
 
 ---
 
-## 🛠️ Technologies & outils
+## TECHNOLOGIES & OUTILS
 
+<br>
+
+### 🎨 Frontend
+
+<br>
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,scss,angular,vue" />
+</div>
 
-<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,redux,git,github,vscode" />
+<br>
+<br>
 
+### 🧩 UI & State Management
+
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mui,styledcomponents,redux,figma" />
+</div>
+
+<br>
+<br>
+
+### 🧪 Testing & Code Quality
+
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=jest" />
+  <img src="./assets/icons/eslint.svg" height="48" alt="ESLint" />
+  <img src="./assets/icons/sonarqube.svg" height="48" alt="SonarQube" />
+</div>
+
+<br>
+<br>
+
+
+### ⚙️ Backend & Databases
+
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,mysql" />
+</div>
+
+<br>
+<br>
+
+### 🛠️ Development Tools & Environment
+
+<br>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vite,npm,git,github,gitlab,vscode,ubuntu" />
 </div>
 
 <br>
 
-<table>
-<tr>
-<td align="center" width="25%">
-
-### 🎨 UI
-
-Interfaces modernes  
-Composants réutilisables  
-Design Systems
-
-</td>
-
-<td align="center" width="25%">
-
-### ♿ Accessibilité
-
-HTML sémantique  
-Navigation clavier  
-Bonnes pratiques
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧪 Qualité
-
-Tests  
-TypeScript  
-Code maintenable
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤝 Collaboration
-
-Git & GitHub  
-Code Review  
-Documentation
-
-</td>
-</tr>
-</table>
 
 ---
 
-## 📊 GitHub
+## CONTACT
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=A-Space-hub&show_icons=true&theme=midnight-purple&hide_border=true"
-/>
-
-<br><br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Space-hub&layout=compact&theme=midnight-purple&hide_border=true"
-/>
-
-</div>
-
----
-
-## 📫 Me contacter
-
-<div align="center">
-
-**Une opportunité, un projet ou simplement envie d'échanger ?**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-A--Space--hub-181717?style=for-the-badge&logo=github)](https://github.com/A-Space-hub)
-
-<!-- Remplace TON-LINKEDIN par l'adresse de ton profil -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariane_Spanneut-0A66C2?style=for-the-badge&logo=linkedin)](TON-LINKEDIN)
+  **Une opportunité, un projet ou simplement envie d'échanger ?**
+  
+  **An opportunity, a project, or simply want to connect?**
+  
+  <br>
+  
+  [![GitHub](https://img.shields.io/badge/GitHub-A--Space--hub-181717?style=for-the-badge&logo=github)](https://github.com/A-Space-hub)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ariane_Spanneut-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ariane-spanneut/)
 
 </div>
 
@@ -200,6 +185,6 @@ Documentation
 
 <div align="center">
 
-### ✨ Building accessible, scalable & impactful web experiences.
+  ### ✨ Building accessible, scalable & impactful web experiences.
 
 </div>
